@@ -13,6 +13,7 @@ public class No275 {
             }
         }
 
+
         return n - left;
     }
 }
